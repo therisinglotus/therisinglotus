@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Raju Kamal
-👀 I’m interested in  Data Science 
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on Data analysis 
+👀 I’m interested in  Data Engineering
+- 🌱 I’m currently learning Python and SQL
 - 📫 How to reach me- rajukamal8@gmail.com
 
 <!---
